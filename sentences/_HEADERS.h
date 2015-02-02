@@ -59,8 +59,15 @@ int iphvg5_sentence2();
 int tnrn9bSentence1();
 int tnrn9bSentence2();
 
+
+int hrggyf_s1();
+int hrggyf_s2();
+
 void drby96sentenceone();
 void drby96sentencetwo();
 
+
 int mjir4d_sentence1();
 int mjir4d_sentence2();
+
+
